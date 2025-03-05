@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrepinguim
-- 👀 I’m interested in .Net/C#, POO/SOLID/DDD, Node/Nest, Architecture, Python, Jupiter, AI, Data Science
-- 🌱 I’m currently learning Artificial Intelligence (AI), Python, Node/Nest
+- 👀 I’m interested in .Net/C#, POO/SOLID/DDD, Node/Nest, Architecture, Python, Jupiter, AI, Data Science, LLMs
+- 🌱 I’m currently learning Artificial Intelligence (AI), LLMs, Python, Node/Nest
 - 💞️ I’m looking to collaborate on fix something interesting and translate from en to pt-BR
 - 📫 How to reach me https://www.linkedin.com/in/andrevazquez/?locale=en_US
 
